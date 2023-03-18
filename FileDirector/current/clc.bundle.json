@@ -1,0 +1,81 @@
+{
+	"curse":
+	[
+		{
+			"fileName": "CreativeCore v1.3.24 mc1.7.10.jar",
+			"addonId": 257814,
+			"fileId": 2462369
+		},
+		{
+			"fileName": "FastLeafDecay-1.7.10-1.4.jar",
+			"addonId": 230976,
+			"fileId": 2272838
+		},
+		{
+			"fileName": "FTBLib-1.7.10-1.0.18.3.jar",
+			"addonId": 237167,
+			"fileId": 2291433
+		},
+		{
+			"fileName": "FTBUtilities-1.7.10-1.0.18.3.jar",
+			"addonId": 237102,
+			"fileId": 2291494
+		},
+		{
+			"fileName": "journeymap-1.7.10-5.1.4p3-unlimited.jar",
+			"addonId": 32274,
+			"fileId": 4423651,
+			"installationPolicy":
+			{
+				"supersede": "Opis-1.2.5_1.7.10.jar"
+			}
+		},
+		{
+			"fileName": "JourneyMapQol_1.7.10-0.8.9.jar",
+			"addonId": 621947,
+			"fileId": 3966316
+		},
+		{
+			"fileName": "Journey_Map_Radar_1.7.10-0.3.4.jar",
+			"addonId": 622252,
+			"fileId": 3807184
+		},
+		{
+			"fileName": "Mantle-1.7.10-0.3.2b.jar",
+			"addonId": 74924,
+			"fileId": 2264244
+		},
+		{
+			"fileName": "Morpheus-1.7.10-1.6.21.jar",
+			"addonId": 69118,
+			"fileId": 2280761
+		},
+		{
+			"fileName": "MouseTweaks-2.4.4-mc1.7.10.jar",
+			"addonId": 60089,
+			"fileId": 2209265
+		},
+		{
+			"fileName": "OnlinePicFrame v1.0 mc1.7.10.jar",
+			"addonId": 257815,
+			"fileId": 2486883
+		},
+		{
+			"fileName": "TConstruct-1.7.10-1.8.8.jar",
+			"addonId": 74072,
+			"fileId": 2264246
+		}
+	],
+	"url":
+	[
+		{
+			"fileName": "MC1.7.10_mcheli_1.0.4.fix",
+			"url": "https://github.com/Quaosgang/CrazyLunaCraft/raw/main/MC1.7.10_mcheli_1.0.4.zip",
+			"installationPolicy":
+			{
+				"extract": true,
+				"supersede": "MC1.7.10_mcheli_1.0.4.zip"
+			}
+		}
+	]
+}
